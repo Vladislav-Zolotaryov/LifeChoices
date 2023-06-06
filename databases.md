@@ -1,5 +1,5 @@
  * PostgreSQL - best allround for larger loads
- * MySQL - best developer friendly RDBMS
+ * MariaDB - best developer friendly RDBMS
  * MongoDB - best read optimized NoSQL for JSON documents
  * CockroachDB - probably best horizontal scaling RDBMS
  * ScyllaDB - probably good NoSQL for readiness and scaling
