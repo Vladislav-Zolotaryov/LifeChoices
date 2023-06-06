@@ -17,5 +17,6 @@ Dynamic
  * JavaScript
 
 Embeddable scripting
+ * Wren
  * Lua
  * io
