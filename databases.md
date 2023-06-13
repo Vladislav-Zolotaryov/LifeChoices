@@ -2,7 +2,7 @@
  * MariaDB - best developer friendly RDBMS
  * MongoDB - best read optimized NoSQL for JSON documents
  * CockroachDB - probably best horizontal scaling RDBMS
- * ScyllaDB - probably good NoSQL for readiness and scaling
+ * ScyllaDB - probably good NoSQL for readiness and scaling, faster Cassandra alternative
  * Cassandra - best write optimized, columnar NoSQL
  * SurrealDB - multi-model database
  * Neo4J - best graph db
