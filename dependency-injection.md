@@ -8,4 +8,4 @@ Benefits of not having a DI container are:
  * Fast startup
  * Smaller application footprint
  * Type safety auto of the box for statically typed languages
- * Easier to read, no need for special introspecting tools and IDE/Editor plugins
+ * Easier to navigate and read, no need for special introspecting tools and IDE/Editor plugins
