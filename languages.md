@@ -1,4 +1,4 @@
-General purpose
+## General purpose
  * GoLang
  * Rust
  * Kotlin
@@ -8,18 +8,18 @@ General purpose
  * Zig
  * C++
 
-Embedded programming
+## Embedded programming
  * C
  * Rust
  * Zig
 
-Dynamic
+## Dynamic
  * Julia
  * Elixir
  * Python
  * JavaScript
 
-Embeddable scripting
+## Embeddable scripting
  * Wren
  * Lua
  * io
