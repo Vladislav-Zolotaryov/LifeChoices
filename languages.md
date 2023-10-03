@@ -5,10 +5,13 @@ General purpose
  * Java
  * Julia
  * C#
+ * Zig
+ * C++
 
 Embedded programming
  * C
  * Rust
+ * Zig
 
 Dynamic
  * Julia
