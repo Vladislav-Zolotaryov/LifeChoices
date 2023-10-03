@@ -7,4 +7,4 @@
  * SurrealDB - multi-model database
  * Neo4J - best graph db
  * Redis - most mature key-value with all-rounder features support 
- * Hazelcast - embeddable java written key-value
+ * Hazelcast - embeddable java written key-value with good scaling capabilities
