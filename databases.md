@@ -9,7 +9,7 @@
  * Neo4J - best graph DB
  * Redis - most mature key-value with all-rounder features support 
  * Hazelcast - embeddable java written key-value with good scaling capabilities
-
+ * SurrealDB - Rust based multi-model DB
 
 For small scale datasets when your data size and request rate can be handled by a single node DB, the best choices are:
  * PostgreSQL (the only choice if you need OLTP)
