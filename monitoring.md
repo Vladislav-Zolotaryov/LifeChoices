@@ -9,3 +9,10 @@
 * Kubernetes: Pods, Pod crashes
 * Web applications - request rates and response times for endpoints, DB connections in pool, thread/virtual thread counts
 * DB - query timings, total connections, transation rate, Disk Read/Write speeds, VACUUM times for PostgreSQL
+
+
+# Log Collectors
+fluent-bit - efficient, mature
+
+# Observability Collectors (Metrics, Logs, APM)
+vector - ultra efficient, less mature (by DataDog)
