@@ -1,4 +1,4 @@
- * PostgreSQL - best all-round for larger loads
+ * PostgreSQL - best all-round for larger loads (Maybe try to replace with AlloyDB Omni)
  * MariaDB - best developer friendly RDBMS
  * MongoDB - best read optimized NoSQL for JSON documents
  * Couchbase - best allround NoSQL DB
