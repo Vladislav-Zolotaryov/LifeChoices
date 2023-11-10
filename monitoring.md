@@ -12,8 +12,8 @@
 
 
 # Log Collectors
-fluent-bit - efficient, mature
-Promtail - if you use Loki Stack and single tenant
+* fluent-bit - efficient, mature
+* Promtail - if you use Loki Stack and single tenant
 
 # Observability Collectors (Metrics, Logs, APM)
 vector - ultra efficient, less mature (by DataDog)
