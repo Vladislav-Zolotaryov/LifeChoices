@@ -1,5 +1,5 @@
- * PostgreSQL - best all-round for larger loads (Maybe try to replace with AlloyDB Omni)
- * MariaDB - best developer friendly RDBMS
+ * PostgreSQL - best all-round for larger loads (Maybe try to replace with AlloyDB Omni at scale), other possible clustering solutions are Citus and AWS Aurora
+ * MariaDB - best developer friendly RDBMS can be master-master clustered using Galera
  * MongoDB - best read optimized NoSQL for JSON documents
  * Couchbase - best allround NoSQL DB
  * CockroachDB - probably best horizontal scaling RDBMS
