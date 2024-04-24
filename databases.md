@@ -7,7 +7,7 @@
  * Cassandra - best write optimized, columnar NoSQL
  * SurrealDB - multi-model database
  * Neo4J - best graph DB
- * Redis - most mature key-value with all-rounder features support 
+ * Redis - most mature key-value with all-rounder features support (No longer open source, replace with KeyDB)
  * Hazelcast - embeddable java written key-value with good scaling capabilities
  * SurrealDB - Rust based multi-model DB
 
