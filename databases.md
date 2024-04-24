@@ -9,6 +9,7 @@
  * Neo4J - best graph DB
  * Redis - most mature key-value with all-rounder features support (No longer open source, replace with KeyDB)
  * Hazelcast - embeddable java written key-value with good scaling capabilities
+ * DragonflyDB - Theoretically fastest key-value store
  * SurrealDB - Rust based multi-model DB
 
 For small scale datasets when your data size and request rate can be handled by a single node DB, the best choices are:
