@@ -3,3 +3,4 @@ Clients for HTTP testing
 * cUrl - CLI only and inhumane API
 * hurl - HTTP requests described in plan text files, similiar to JetBrains HTTP Client
 * httpie - CLI + GUI, mature, open source
+* xh - attemp at httpie, but faster, less mature, lacks features
