@@ -36,6 +36,7 @@ Parameters to consider:
 * Tracing (Support for APM)
 * Managment tools (easy tools to look at data and state)
 * Serverlesness (automatic scaling)
+* Point in time Recovery
 
 
 Databases:
