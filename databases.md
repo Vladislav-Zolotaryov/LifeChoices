@@ -17,7 +17,7 @@ Parameters to consider:
 * Audit logs
 * TTLs support
 * Security (Per Instance, Per logical DB, Per Schema, Per Table, Per Row)
-* Encryption
+* Encryption (level of encryption, at rest, e2e, etc)
 * Compaction
 * Multi-tenancy
 * User Defined Functions
@@ -31,6 +31,10 @@ Parameters to consider:
 * Cluster partitioning scenario handling
 * Datacenter and rack awareness
 * Schema and data migration
+* Metrics (Ability to export metrics)
+* Tracing (Support for APM)
+* Managment tools (easy tools to look at data and state)
+* Serverlesness (automatic scaling)
 
 
 Databases:
