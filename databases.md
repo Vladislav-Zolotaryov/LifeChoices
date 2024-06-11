@@ -14,6 +14,7 @@ Parameters to consider:
 * Analytics Queries (Parallel requests, Map-Reduce)
 * Materialized Views (Automatic, overhead cost)
 * Partitioning (and Clustering, pre-sorting)
+* Projections and Joins support
 * Timeseries Queries (Ability to show data analytics for group of entries by time 1, 7, 30, 90, 180, 365 days)
 * Audit logs
 * TTLs support
