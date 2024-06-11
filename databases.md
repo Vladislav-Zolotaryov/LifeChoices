@@ -3,6 +3,7 @@ Parameters to consider:
 * Vertical Scaling
 * Horizontal Scaling (Clustering/Sharding Protocol and Topology) 
 * Storage Solution (B-Tree (Locking, WAL, Copy-On-Write MVCC), LSM)
+* Distributed Transactions (2PC, Paxos, Raft)
 * Indexing (Global, Local)
 * OLTP vs OLAP
 * Community Edition trade-offs
