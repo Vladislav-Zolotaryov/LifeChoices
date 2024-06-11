@@ -41,6 +41,7 @@ Parameters to consider:
 Databases:
  
  * PostgreSQL - best all-round for larger loads (Maybe try to replace with AlloyDB Omni at scale), reads can scale to a degree by using read-replicas, other possible clustering solutions are Citus (2PC) and AWS Aurora or Greemplum, Timescale for OLAP
+ * Neon - Serverless PostgreSQL compliant
  * MariaDB - best developer friendly RDBMS can be master-master clustered using Percona or Galera
  * MongoDB - best read optimized NoSQL for JSON documents
  * Couchbase - best allround NoSQL DB
