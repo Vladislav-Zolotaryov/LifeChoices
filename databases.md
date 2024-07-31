@@ -66,6 +66,7 @@ OLAP Columnar
  * Pinot
  * DuckDB
  * StarRocks
+ * Doris
 
 For small scale datasets when your data size and request rate can be handled by a single node DB, the best choices are:
  * PostgreSQL (the only choice if you need OLTP)
