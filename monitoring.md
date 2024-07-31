@@ -1,7 +1,11 @@
 # Solutions
-* ELK - heavy, robust 
-* Datadog - pricy, cloud, robust
-* Loki Stack - lightweight, lacks features
+* ELK - resource heavy, robust, lacks features
+* Datadog - pricy, cloud only, robust
+* Grafana LGTM - lightweight, lacks features
+* SigNoz - maturing simple observability stack
+* DynaTrace - pricy, cloud only, robust solution
+* New Relic - pricy, cloud only, users complain about unstable pricing model and unexpected changes in billing
+* AppDynamics - strange product by Cisco
 
 # Metrics
 * OS - CPU, Memory, Storage
