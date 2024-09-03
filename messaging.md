@@ -1,3 +1,4 @@
+ * NATS - lightweight multi topology messanging
  * RabbitMQ - versitile MQTT with good scaling and suitable for RPC
  * Mosquitto - classical MQTT in a tiny package
  * HiveMQ - enterprise grade MQTT
